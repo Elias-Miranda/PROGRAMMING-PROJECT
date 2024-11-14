@@ -1,17 +1,17 @@
 Algoritmo CalcularAreaTriangulo
-    // Declaración de variables
+    // DeclaraciÃ³n de variables
     Definir base, altura, area Como Real
 	
     // Solicitar al usuario los valores de la base y la altura
-    Escribir "Ingresa la base del triángulo:"
+    Escribir "Ingresa la base del triÃ¡ngulo:"
     Leer base
-    Escribir "Ingresa la altura del triángulo:"
+    Escribir "Ingresa la altura del triÃ¡ngulo:"
     Leer altura
 	
-    // Cálculo del área
+    // CÃ¡lculo del Ã¡rea
     area = (base * altura) / 2
 	
     // Mostrar el resultado
-    Escribir "El área del triángulo es:", area
+    Escribir "El Ã¡rea del triÃ¡ngulo es:", area
 FinAlgoritmo
 
