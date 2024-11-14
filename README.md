@@ -6,8 +6,8 @@ El extra es del ejercicio 10, adivinanza. Nos pareció bien incluirlo como extra
 
 Nombres de los integrantes:
 
-Elias Miranda
-Gustavo Nuccio
-Pablo Gabriel Ferraro
+Elias Miranda,
+Gustavo Nuccio,
+Pablo Gabriel Ferraro.
 
 Saludos
