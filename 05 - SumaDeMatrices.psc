@@ -1,12 +1,12 @@
 Algoritmo SumaDeMatrices
-    // Declaración de variables
+    // DeclaraciÃ³n de variables
     Definir filas, columnas Como Entero
-    Escribir "Ingresa el número de filas de las matrices:"
+    Escribir "Ingresa el nÃºmero de filas de las matrices:"
     Leer filas
-    Escribir "Ingresa el número de columnas de las matrices:"
+    Escribir "Ingresa el nÃºmero de columnas de las matrices:"
     Leer columnas
 	
-    // Declaración de matrices (sin subíndices en la definición)
+    // DeclaraciÃ³n de matrices (sin subÃ­ndices en la definiciÃ³n)
     Definir matrizA Como Real
     Definir matrizB Como Real
     Definir matrizResultado Como Real
