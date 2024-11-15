@@ -16,6 +16,3 @@ Algoritmo PiramideDeNumeros
         Escribir fila // Imprimimos la fila completa
     FinPara
 FinAlgoritmo
-
-
-
