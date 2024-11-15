@@ -25,3 +25,4 @@ Algoritmo CalculoInteresSimple
     // Mostrar el resultado
     Escribir "El interés simple calculado es:", interes
 FinAlgoritmo
+
