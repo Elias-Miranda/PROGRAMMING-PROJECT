@@ -48,3 +48,4 @@ Algoritmo AdivinarNumero
 	
     Escribir "Gracias por jugar. ¡Hasta la próxima!"
 FinAlgoritmo
+
