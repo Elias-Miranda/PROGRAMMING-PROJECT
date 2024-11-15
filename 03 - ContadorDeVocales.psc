@@ -25,3 +25,4 @@ Algoritmo ContadorDeVocales
     Escribir "La cantidad de vocales en la frase es:", contador
 FinAlgoritmo
 
+
